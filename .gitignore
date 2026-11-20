@@ -1,0 +1,17 @@
+# Scratch & local temporary files
+scratch/
+*.tmp
+*.log
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Editor & Agent temporary files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace

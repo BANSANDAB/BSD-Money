@@ -1,0 +1,22 @@
+{
+  "name": "ระบบบริหารงบประมาณ โรงเรียนบ้านสันดาบ",
+  "short_name": "ระบบการเงิน",
+  "description": "ระบบบริหารงบประมาณและแผนปฏิบัติการประจำปี โรงเรียนบ้านสันดาบ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f8fafc",
+  "theme_color": "#B71C1C",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/d/1sL_YBHAatatobDZG11BL-f7ByJIgGwJM",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/d/1sL_YBHAatatobDZG11BL-f7ByJIgGwJM",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
